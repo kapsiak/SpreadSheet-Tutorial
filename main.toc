@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}List of Spreadsheet Software}{3}{subsection.1.1}%
+\contentsline {section}{\numberline {2}The Basics of Spreadsheets}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The layout of the spreadsheet}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Values in a cells}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Value Extrapolation}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Formulas}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Basic Formula Syntax}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Variables}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Formula Extrapolation}{7}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Static Values}{7}{subsubsection.3.3.1}%
+\contentsline {section}{\numberline {4}Graphs}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Adding Data to a Chart}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Parts of the Charts}{10}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Analyzing Data}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Fit Lines}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Linest}{11}{subsection.5.2}%
